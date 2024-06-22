@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on ["90 Days DevOps"](https://github.com/sheakimran/90DaysOfDevOps)
 
-- 🤝 I’m looking for help with ["V-profile Project"](https://github.com/sheakimran/vprofile-project/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/sheakimran](https://github.com/sheakimran)
 
 - 📝 I regularly write articles on [https://sheakimran.hashnode.dev/](https://sheakimran.hashnode.dev/)
