@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on ["Deploying Website like Netflix by Git Action"](https://github.com/sheakimran/Netflix)
 
-- 🌱 I’m currently learning **"Currently enhancing my skills as a DevOps engineer, focusing on automation, continuous integration, and cloud infrastructure management."**
+- 🌱 I’m learning "to enhance my DevOps engineering skills, focusing on automation, continuous integration, and cloud infrastructure management.
 
 - 👯 I’m looking to collaborate on ["90 Days DevOps"](https://github.com/sheakimran/90DaysOfDevOps)
 
